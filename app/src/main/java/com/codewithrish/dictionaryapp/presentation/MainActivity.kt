@@ -33,5 +33,6 @@ class MainActivity : AppCompatActivity() {
 
         // Setup Nav Controller
         navController = navHostFragment.navController
+
     }
 }
