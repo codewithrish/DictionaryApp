@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "907704157704",
+    "project_id": "ci-cd-baedf",
+    "storage_bucket": "ci-cd-baedf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:907704157704:android:035d703de5a27d618ff3bd",
+        "android_client_info": {
+          "package_name": "com.codewithrish.dictionaryapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "907704157704-qh9oliuc69deu1fadn918d2n0lkm7ch4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDo6XFc-0rwq5iqjG7BIi8WYENKiS2-3nI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "907704157704-qh9oliuc69deu1fadn918d2n0lkm7ch4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
